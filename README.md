@@ -2,12 +2,15 @@
 
 ## Table of Contents
 
-* [Instructions](#instructions)
+* [Project Description](#projectdescription)
+* [Usage](#Usage)
 
-## Instructions
+## Project Description
+a step by step Landing-Page project that consists of 4 sections in the nav-bar. each section takes you to another page when you click on it. you can scroll through the section selected where its active. the active from the pervious sections changes and get removed.
 
-The starter project has some HTML and CSS styling to display a static version of the Landing Page project. You'll need to convert this project from a static project to an interactive one. This will require modifying the HTML and CSS files, but primarily the JavaScript file.
 
-To get started, open `js/app.js` and start building out the app's functionality
 
-For specific, detailed instructions, look at the project instructions in the Udacity Classroom.
+
+## Usage
+i used append method to add the sections to the nav-bar. Eventlistner for the scroll and used window properties for active part.
+
